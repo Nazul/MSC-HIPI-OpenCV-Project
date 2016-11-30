@@ -1,0 +1,5 @@
+jar {
+	manifest {
+		attributes("Main-Class": "mx.iteso.msc.examples.FaceCount")
+	}
+}
